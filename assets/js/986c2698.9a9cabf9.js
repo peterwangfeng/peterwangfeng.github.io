@@ -1,0 +1,1 @@
+(self.webpackChunkzxuqian_cn=self.webpackChunkzxuqian_cn||[]).push([[2372],{2248:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"vuex","name":"vuex","count":1,"permalink":"/tags/vuex"}')}}]);

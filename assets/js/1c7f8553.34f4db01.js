@@ -1,0 +1,1 @@
+(self.webpackChunkzxuqian_cn=self.webpackChunkzxuqian_cn||[]).push([[8618],{8847:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"vscode","name":"vscode","count":1,"permalink":"/tags/vscode"}')}}]);

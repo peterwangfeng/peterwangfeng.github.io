@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://81.68.204.38/lifestyle</id>
+    <title>peternodejs</title>
+    <updated>2021-06-27T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://81.68.204.38/lifestyle"/>
+    <subtitle>peternodejs的小站 Blog</subtitle>
+    <icon>http://81.68.204.38/img/favicon.ico</icon>
+    <rights>Copyright © 2022 peternodejs Built with Docusaurus.&lt;p&gt;&lt;/p&gt;</rights>
+    <entry>
+        <title type="html"><![CDATA[人的情绪总是多变的，需要理智应对]]></title>
+        <id>deal-with-people-emotions</id>
+        <link href="http://81.68.204.38/lifestyle/deal-with-people-emotions"/>
+        <updated>2021-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一个人的脾气，就跟所有周期节律的东西（例如股票、气温）一样，一会在高峰、一会在低谷，对于同样的一句话的解析有不同的意味，在心情好的时候，开个玩笑，或讨论个有争议的事情，大家都能理智接受，但是在无论什么原因影响了心情之后，玩笑就成了侮辱，讨论就成了争论，最后面红耳赤，不欢而散。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员“躺平”是最正确的选择]]></title>
+        <id>programmer-lie-down</id>
+        <link href="http://81.68.204.38/lifestyle/programmer-lie-down"/>
+        <updated>2021-06-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在“内卷”浪潮的冲涮下，看到有不少年轻人选择躺平来应对压力，其实“内卷”和“躺平”这两个现象是一直存在的，只是最近随着互联网信息的发展，人们才注意到这些，并冠以这两个生动的名词。程序员是最先体会到内卷的群体，因为自始至终，程序员都需要保持学习的能力，才能在内卷中不被淘汰，如果感受到沉重的压力，那么躺平是正确的选择。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIT 留学租房攻略 | Stevents Institute of Technology]]></title>
+        <id>sit-house-rental</id>
+        <link href="http://81.68.204.38/lifestyle/sit-house-rental"/>
+        <updated>2021-06-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本篇文章给即将要去 Stevens Institute of Technoloy，SIT，史蒂文斯理工学院留学的同学，租房上的一点点建议，仅供参考。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写技术博客，质量和数量该如何保证？]]></title>
+        <id>writing-technical-blogs</id>
+        <link href="http://81.68.204.38/lifestyle/writing-technical-blogs"/>
+        <updated>2021-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自接触编程以来已经有13个年头了，在2010年参加培训的时候，受到老师的影响，在 CSDN 上开通了博客，开始了写作之旅。当时的写作好像很简单，把自己在课上学到的、以及平时遇到的问题总结一下，就有不少人看。后来因为工作原因，没有时间写就荒废了，就这么断断续续的十几年来，博客似乎越来越难写。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果没有灵感，就尽情放松吧]]></title>
+        <id>out-of-ideas</id>
+        <link href="http://81.68.204.38/lifestyle/out-of-ideas"/>
+        <updated>2021-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[灵感真是个神奇的东西，在夜深人静的时候，能无穷无尽的迸发，在日间繁忙的事务中却又消失的无影无踪，或者在某段日子里，灵感都是持续出现的，而在其它日子里，却好像死灰一样，没有任何创意的火花。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入手DIY森某IE800s耳机，性价比不错]]></title>
+        <id>diy-earbuds</id>
+        <link href="http://81.68.204.38/lifestyle/diy-earbuds"/>
+        <updated>2021-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[手里的 Bose Sports 耳机已经跟随了我有六七年的历史了，纯白的耳机和线已经成了黢黑的，洗都洗不掉，一千多大洋买的，真舍不得换。后来想看看万能的某宝有没有高质低价的耳机，然后发现了这个四百多价位的，diy 的耳机。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第31个年头的生日，年龄真的是能力的枷锁吗？]]></title>
+        <id>happy-birthday</id>
+        <link href="http://81.68.204.38/lifestyle/happy-birthday"/>
+        <updated>2021-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[来到这世上第 31 个年头了，在这个贩卖年龄焦虑的时代，本来不太想过生日，但是我自己觉得年龄才不是限制自身的因素，所以高高兴兴的和家人、朋友度过了愉快的一天。今天的天气出奇的好，晚上聚餐完了出来还看到了超级月亮和月食，让我不禁心里偷偷的乐着，大自然陪我过了一次不一样的生日。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端 UP 主背后的生活是什么样的？这是一段孤独的旅程]]></title>
+        <id>a-lonely-jorney</id>
+        <link href="http://81.68.204.38/lifestyle/a-lonely-jorney"/>
+        <updated>2021-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天是成为 Bilibili Up 主的第 513天，也是这个网站上线”随笔“栏目的第一天，为什么不专心于技术而写这些乱七八糟的呢？原因是，做技术类视频或写技术类文章，需要搜集资料，整理，消化，吸收，撰写文章或视频文案，做视频的话，后面还要做 PPT，录声音，录屏幕，找素材，剪辑，发布，都是耗费巨大精力和时间的事情，而随笔写作可以吐槽一些不满、压力，想写什么就写什么，是一个放松的过程，还可以把我的想法说给你听，了解我做 UP 主的背后，都经历了什么。]]></summary>
+    </entry>
+</feed>

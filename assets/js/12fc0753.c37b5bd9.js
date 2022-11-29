@@ -1,0 +1,1 @@
+(self.webpackChunkzxuqian_cn=self.webpackChunkzxuqian_cn||[]).push([[7855],{6528:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"web","name":"web","count":1,"permalink":"/tags/web"}')}}]);

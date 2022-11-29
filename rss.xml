@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>peternodejs</title>
+        <link>http://81.68.204.38/</link>
+        <description>peternodejs的小站 Blog</description>
+        <lastBuildDate>Wed, 30 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2022 peternodejs Built with Docusaurus.&lt;p&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[11个你不需要的 VS Code扩展]]></title>
+            <link>http://81.68.204.38/vscode</link>
+            <guid>vscode</guid>
+            <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[css awesome]]></description>
+        </item>
+        <item>
+            <title><![CDATA[现代CSS样式重置最佳实践！]]></title>
+            <link>http://81.68.204.38/CSS</link>
+            <guid>CSS</guid>
+            <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[现代CSS样式重置最佳实践！]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HTTP/3尝鲜]]></title>
+            <link>http://81.68.204.38/HTTP/3</link>
+            <guid>HTTP/3</guid>
+            <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[新一波JavaScript Web框架]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新一波JavaScript Web框架]]></title>
+            <link>http://81.68.204.38/web framework</link>
+            <guid>web framework</guid>
+            <pubDate>Mon, 17 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[新一波JavaScript Web框架]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对前端构建工具的一些理解]]></title>
+            <link>http://81.68.204.38/build</link>
+            <guid>build</guid>
+            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[对前端构建工具的一些理解]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ES6知识点汇总，牛逼了]]></title>
+            <link>http://81.68.204.38/ES6</link>
+            <guid>ES6</guid>
+            <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[ES6知识点汇总，牛逼了]]></description>
+        </item>
+        <item>
+            <title><![CDATA[count(1)、count(*) 与 count(列名) 有什么区别？]]></title>
+            <link>http://81.68.204.38/sql-count</link>
+            <guid>sql-count</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[count(1)、count(*) 与 count(列名) 有什么区别？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pinia 和 Vuex 谁更吊]]></title>
+            <link>http://81.68.204.38/Pinia-Vuex</link>
+            <guid>Pinia-Vuex</guid>
+            <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[一文解析 Pinia 和 Vuex，带你全面理解这两个 Vue 状态管理模式]]></description>
+        </item>
+        <item>
+            <title><![CDATA[前后端通信之 HTTP 协议简介]]></title>
+            <link>http://81.68.204.38/http-protocol</link>
+            <guid>http-protocol</guid>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[HTTP 协议包括客户端和服务端两个实体，客户端发送请求给服务端，服务端返回响应给客户端。在 HTTP 中，数据称为资源，可以是 html 文档、图片、也可以是普通文本。资源是通过 URL 进行定位的。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[测试一下]]></title>
+            <link>http://81.68.204.38/test</link>
+            <guid>test</guid>
+            <pubDate>Mon, 25 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[这个博客生成器真牛逼]]></description>
+        </item>
+    </channel>
+</rss>
